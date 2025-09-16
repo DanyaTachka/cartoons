@@ -84,3 +84,6 @@ p{
 .item-link:hover{
     color: rgb(1, 1, 172);
 }
+border{
+    border-radius: 25px;
+}
